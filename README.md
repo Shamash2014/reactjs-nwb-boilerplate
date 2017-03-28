@@ -13,4 +13,4 @@ docker-compose up --build
 
 And open ```localhost:3000``` for quick development
 
-
+This will pull latest version of alpine node.js image and mount `$(pwd)` to the /app directory
